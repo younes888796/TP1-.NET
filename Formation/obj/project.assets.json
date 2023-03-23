@@ -63,19 +63,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\aelhaoussi\\.nuget\\packages\\": {}
+    "C:\\Users\\yelhoub\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aelhaoussi\\Downloads\\SolutionFormation\\Formation\\Formation.csproj",
+      "projectUniqueName": "C:\\Users\\yelhoub\\OneDrive - SQLI\\Documents\\ASP\\FormationTp-main\\FormationTp-main\\Formation\\Formation.csproj",
       "projectName": "Formation",
-      "projectPath": "C:\\Users\\aelhaoussi\\Downloads\\SolutionFormation\\Formation\\Formation.csproj",
-      "packagesPath": "C:\\Users\\aelhaoussi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aelhaoussi\\Downloads\\SolutionFormation\\Formation\\obj\\",
+      "projectPath": "C:\\Users\\yelhoub\\OneDrive - SQLI\\Documents\\ASP\\FormationTp-main\\FormationTp-main\\Formation\\Formation.csproj",
+      "packagesPath": "C:\\Users\\yelhoub\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\yelhoub\\OneDrive - SQLI\\Documents\\ASP\\FormationTp-main\\FormationTp-main\\Formation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\aelhaoussi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\yelhoub\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -89,14 +89,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\aelhaoussi\\Downloads\\SolutionFormation\\Repository\\Repository.csproj": {
-              "projectPath": "C:\\Users\\aelhaoussi\\Downloads\\SolutionFormation\\Repository\\Repository.csproj"
+            "C:\\Users\\yelhoub\\OneDrive - SQLI\\Documents\\ASP\\FormationTp-main\\FormationTp-main\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\Users\\yelhoub\\OneDrive - SQLI\\Documents\\ASP\\FormationTp-main\\FormationTp-main\\Repository\\Repository.csproj"
             },
-            "C:\\Users\\aelhaoussi\\Downloads\\SolutionFormation\\Services\\Services.csproj": {
-              "projectPath": "C:\\Users\\aelhaoussi\\Downloads\\SolutionFormation\\Services\\Services.csproj"
+            "C:\\Users\\yelhoub\\OneDrive - SQLI\\Documents\\ASP\\FormationTp-main\\FormationTp-main\\Services\\Services.csproj": {
+              "projectPath": "C:\\Users\\yelhoub\\OneDrive - SQLI\\Documents\\ASP\\FormationTp-main\\FormationTp-main\\Services\\Services.csproj"
             },
-            "C:\\Users\\aelhaoussi\\Downloads\\SolutionFormation\\Shared\\Shared.csproj": {
-              "projectPath": "C:\\Users\\aelhaoussi\\Downloads\\SolutionFormation\\Shared\\Shared.csproj"
+            "C:\\Users\\yelhoub\\OneDrive - SQLI\\Documents\\ASP\\FormationTp-main\\FormationTp-main\\Shared\\Shared.csproj": {
+              "projectPath": "C:\\Users\\yelhoub\\OneDrive - SQLI\\Documents\\ASP\\FormationTp-main\\FormationTp-main\\Shared\\Shared.csproj"
             }
           }
         }

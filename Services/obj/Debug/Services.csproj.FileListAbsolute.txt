@@ -9,3 +9,14 @@ C:\Users\aelhaoussi\Downloads\SolutionFormation\Services\bin\Debug\Shared.pdb
 C:\Users\aelhaoussi\Downloads\SolutionFormation\Services\obj\Debug\Services.csproj.CopyComplete
 C:\Users\aelhaoussi\Downloads\SolutionFormation\Services\obj\Debug\Services.dll
 C:\Users\aelhaoussi\Downloads\SolutionFormation\Services\obj\Debug\Services.pdb
+C:\Users\yelhoub\OneDrive - SQLI\Documents\ASP\FormationTp-main\FormationTp-main\Services\bin\Debug\Services.dll
+C:\Users\yelhoub\OneDrive - SQLI\Documents\ASP\FormationTp-main\FormationTp-main\Services\bin\Debug\Services.pdb
+C:\Users\yelhoub\OneDrive - SQLI\Documents\ASP\FormationTp-main\FormationTp-main\Services\bin\Debug\Repository.dll
+C:\Users\yelhoub\OneDrive - SQLI\Documents\ASP\FormationTp-main\FormationTp-main\Services\bin\Debug\Shared.dll
+C:\Users\yelhoub\OneDrive - SQLI\Documents\ASP\FormationTp-main\FormationTp-main\Services\bin\Debug\Repository.pdb
+C:\Users\yelhoub\OneDrive - SQLI\Documents\ASP\FormationTp-main\FormationTp-main\Services\bin\Debug\Shared.pdb
+C:\Users\yelhoub\OneDrive - SQLI\Documents\ASP\FormationTp-main\FormationTp-main\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\yelhoub\OneDrive - SQLI\Documents\ASP\FormationTp-main\FormationTp-main\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\yelhoub\OneDrive - SQLI\Documents\ASP\FormationTp-main\FormationTp-main\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\yelhoub\OneDrive - SQLI\Documents\ASP\FormationTp-main\FormationTp-main\Services\obj\Debug\Services.dll
+C:\Users\yelhoub\OneDrive - SQLI\Documents\ASP\FormationTp-main\FormationTp-main\Services\obj\Debug\Services.pdb
